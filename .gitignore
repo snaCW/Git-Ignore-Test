@@ -1,0 +1,2 @@
+# Ignore ALL files and folders or files within folders with name .vscode
+.vscode
